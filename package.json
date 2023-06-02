@@ -1,0 +1,36 @@
+{
+  "name": "gulp-template-test",
+  "version": "1.1.0",
+  "description": "",
+  "author": "Flizer",
+  "license": "ISC",
+  "scripts": {
+    "start": "gulp"
+  },
+  "devDependencies": {
+    "browser-sync": "latest",
+    "del": "latest",
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-clean": "latest",
+    "gulp-clean-css": "latest",
+    "gulp-file-include": "latest",
+    "gulp-group-css-media-queries": "latest",
+    "gulp-if": "latest",
+    "gulp-imagemin": "7.1.0",
+    "gulp-notify": "latest",
+    "gulp-rename": "latest",
+    "gulp-sass": "latest",
+    "gulp-ttf2woff2": "latest",
+    "gulp-uglify-es": "latest",
+    "gulp-webp-css": "latest",
+    "gulp-webp-html": "latest",
+    "imagemin-webp": "6.0.0",
+    "sass": "latest",
+    "webp-converter": "^2.2.3"
+  },
+  "dependencies": {
+    "gsap": "^3.10.3",
+    "swiper": "^9.0.1"
+  }
+}

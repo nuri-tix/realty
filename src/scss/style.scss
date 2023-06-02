@@ -1,0 +1,28 @@
+//---Миксины
+@import 'components/mixins';
+
+//---Шрифты
+@import 'components/fonts';
+
+//---Обнуление
+@import 'components/nullstyle';
+//---Общие стили
+@import 'components/base';
+/*----------------------------------------*/
+
+//---Страница
+
+
+
+// @import 'components/header';
+@import 'components/_header';
+
+@import 'components/modal';
+
+
+// Слайдер баннер
+
+
+/*-----------------------------------------*/
+
+@import 'components/footer';
